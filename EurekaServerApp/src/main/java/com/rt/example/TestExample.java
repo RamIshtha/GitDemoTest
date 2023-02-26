@@ -3,7 +3,7 @@ package com.rt.example;
 public class TestExample {
 
 	public static void main(String[] args) {
-		System.out.println("wdtyuytasd");
+		int i=0;
 		System.out.println("i am lerning git...");
 	}
 	
