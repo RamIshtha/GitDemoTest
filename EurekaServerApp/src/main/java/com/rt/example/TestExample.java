@@ -6,5 +6,9 @@ public class TestExample {
 		System.out.println("wdtyuytasd");
 		System.out.println("i am lerning git...");
 	}
+	
+	public void m1() {
+		System.out.println("wdtyuytasd");
+	}
 
 }
