@@ -9,6 +9,7 @@ public class TestExample {
 	
 	public void m1() {
 		System.out.println("wdtyuytasd");
+		System.out.println("wdtyuytasd");
 	}
 
 }
