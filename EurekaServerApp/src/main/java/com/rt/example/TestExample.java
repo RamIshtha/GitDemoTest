@@ -3,7 +3,7 @@ package com.rt.example;
 public class TestExample {
 
 	public static void main(String[] args) {
-		String str = "";
+		int i=10;
 	}
 	
 	public void m1() {
